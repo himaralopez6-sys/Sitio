@@ -1,0 +1,76 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Himara Lopez</title>
+	<style>
+		body {
+			background-color: #ffc0cb; /* Fondo rosa */
+			font-family: Arial, sans-serif;
+		}
+		
+		#contenedor {
+			width: 80%;
+			margin: 40px auto;
+			background-color: #fff;
+			padding: 20px;
+			border: 1px solid #ddd;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+		
+		#foto {
+			width: 200px;
+			height: 200px;
+			border-radius: 50%;
+			margin: 20px auto;
+			border: 5px solid #fff;
+		}
+		
+		#video {
+			width: 100%;
+			height: 500px;
+			margin: 20px 0;
+		}
+		
+		.redes-sociales {
+			margin-top: 20px;
+		}
+		
+		.redes-sociales a {
+			margin-right: 10px;
+		}
+	</style>
+</head>
+<body>
+	<div id="contenedor">
+		<h1>Himara Lopez</h1>
+		<img id="foto" src="foto-de-Himara.jpg" alt="Foto">
+		<h2>¡Hola!</h2>
+		<p>Soy Himara, y esta es mi página web personal.</p>
+		<h2>Mis intereses</h2>
+		<ul>
+			<li>Fotografía</li>
+			<li>Música</li>
+			<li>Viajes</li>
+		</ul>
+		<h2>¡Visita mis redes sociales!</h2>
+		<div class="redes-sociales">
+			<a href="https:                                                 
+				<img src="facebook-logo.png" alt="Logo de Facebook">
+			</a>
+			<a href="https://www.facebook.com/dayana_galvan/" target="_blank">
+				<img src="facebook-logo.png" alt="Logo de facebook">
+			</a>
+			<a href="https:                                                
+				<img src="tiktok-logo.png" alt="Logo de TikTok">
+			</a>
+		</div>
+		<h2>Mi presentación en video</h2>
+		<iframe id="video" src="https://www.tiktok.com/embed/v2/TU_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+	</div>
+</body>
+</html>
+
+Sustituye `TU_VIDEO_ID` con el ID del video de TikTok que deseas agregar y `foto-de-dayana.jpg` con la URL de tu foto.
+
+¿Podrías proporcionarme el enlace al video de TikTok que deseas agregar?
